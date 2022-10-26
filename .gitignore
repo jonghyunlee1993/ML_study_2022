@@ -1,4 +1,7 @@
+01_seoul_bike/data
+02_spaceship_titanic/data
 03_jeju_traffic/data
+05_san_francisco_crime/data
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks,visualstudiocode
